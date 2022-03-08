@@ -1,4 +1,6 @@
 # nagwa
 Examples
 
-graded_reader.xml I first draft of an xml file format for a graded reader. Parts of speech, lemmatization, and meaning disambiguation are encoded.  
+graded_reader.xml A first draft of an xml file format for a graded reader. Parts of speech, lemmatization, and meaning disambiguation are encoded.  
+
+learning_to_spell.ipynb A first draft a program to create responsive spelling tests for students. 
